@@ -21,7 +21,7 @@ local CONFIG = {
 
     Scripts = {
         {
-            Name    = "纸脚本 v2",
+            Name    = "纸脚本中心",
             Kind    = "url",
             Source  = "https://raw.githubusercontent.com/zhifeijiyutggddfbe/zhisp/refs/heads/main/%E7%BA%B8%E8%84%9A%E6%9C%AC.v2",
             Default = true,
