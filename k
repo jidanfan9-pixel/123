@@ -23,7 +23,7 @@ local CONFIG = {
         {
             Name    = "纸脚本中心",
             Kind    = "url",
-            Source  = "https://raw.githubusercontent.com/zhifeijiyutggddfbe/zhisp/refs/heads/main/%E7%BA%B8%E8%84%9A%E6%9C%AC.v2",
+            Source  = "https://raw.githubusercontent.com/kkkjjjhhhkkk9-sketch/zhi./refs/heads/main/%E7%BA%B8%E8%84%9A%E6%9C%AC%E4%B8%AD%E5%BF%83",
             Default = true,
         },
         {
