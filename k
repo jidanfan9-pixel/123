@@ -35,7 +35,7 @@ local CONFIG = {
         {
             Name    = "纸.拾取树叶",
             Kind    = "url",
-            Source  = "https://raw.githubusercontent.com/zhifeijiyutggddfbe/zhisp/refs/heads/main/%E7%BA%B8.%E6%8B%BE%E5%8F%96%E6%A0%91%E5%8F%B6",
+            Source  = "https://raw.githubusercontent.com/kkkjjjhhhkkk9-sketch/zhi./refs/heads/main/%E7%BA%B8.%E6%8B%BE%E5%8F%96%E6%89%80%E6%9C%89%E6%A0%91%E5%8F%B6",
             Default = false,
         },
         {
