@@ -41,7 +41,7 @@ local CONFIG = {
         {
             Name    = "纸.重型钓鱼",
             Kind    = "url",
-            Source  = "https://raw.githubusercontent.com/zhifeijiyutggddfbe/zhisp/refs/heads/main/%E7%BA%B8.%E9%87%8D%E5%9E%8B%E9%92%93%E9%B1%BC",
+            Source  = "https://raw.githubusercontent.com/kkkjjjhhhkkk9-sketch/zhi./refs/heads/main/%E7%BA%B8.%E9%87%8D%E5%9E%8B%E9%92%93%E9%B1%BC",
             Default = false,
         },
         {
