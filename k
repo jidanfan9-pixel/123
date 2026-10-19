@@ -47,7 +47,7 @@ local CONFIG = {
         {
             Name    = "纸.海上100天",
             Kind    = "url",
-            Source  = "https://raw.githubusercontent.com/zhifeijiyutggddfbe/zhisp/refs/heads/main/%E7%BA%B8.%E6%B5%B7%E4%B8%8A100%E5%A4%A9",
+            Source  = "https://raw.githubusercontent.com/kkkjjjhhhkkk9-sketch/zhi./refs/heads/main/%E7%BA%B8.%E6%B5%B7%E4%B8%8A100%E5%A4%A9",
             Default = false,
         },
     },
